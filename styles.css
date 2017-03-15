@@ -119,7 +119,7 @@ img.article-image{
 
 img.article-image-about {
   width: 50%;
-  height: 50%;    
+  height: auto;    
   border-top-left-radius: 180px;
   border-top-right-radius: 180px;
   border-bottom-left-radius: 180px;
